@@ -777,12 +777,12 @@ class Game:
                 "text": [
                     "This is your resource bar. It shows:",
                     "",
-                    "ENERGY - Used to perform actions",
-                    "WATER - For watering crops",
-                    "FOOD - You consume 1 food per day",
-                    "SOIL MOISTURE - Affects crop growth",
+                    "ENERGY",
+                    "WATER",
+                    "FOOD",
+                    "SOIL MOISTURE",
                     "",
-                    "If FOOD reaches 0, the game ends!"
+                    "Actually, you can figure out what these do yourself"
                 ],
                 "text_position": (WINDOW_WIDTH // 2, 200)
             },
