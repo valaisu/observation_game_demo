@@ -12,7 +12,7 @@ The tutorial explains how to play the game. The rules on the other hand, you wil
 
 1. Clone the repository:
 ```
-git clone git@github.com:valaisu/RL_farming_game.git
+git clone https://github.com/valaisu/observation_game_demo
 cd RL_farming_game
 ```
 
@@ -40,7 +40,7 @@ python3 main.py
 
 1. Clone the repository:
 ```
-git clone git@github.com:valaisu/RL_farming_game.git
+git clone https://github.com/valaisu/observation_game_demo
 cd RL_farming_game
 ```
 
