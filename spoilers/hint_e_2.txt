@@ -1,0 +1,1 @@
+Your starting weather parameters are always almost, but not quite the same.

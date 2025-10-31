@@ -1,0 +1,9 @@
+About the hints:
+
+ - I have provided a set of hints that might help you if you keep starving to death. 
+ - Each of the hints provides some knowledge of the world. 
+ - The hints a, b are related to one theme, and c-g to another.
+ - The number in each hint is based on my estimation on scale from 1-10 of how helpful that hint is.
+ - I recommend opening the hints in alphabetical order. 
+
+

@@ -1,0 +1,2 @@
+The weather system is based on a "strange attractor".
+run "program_f.py" for a demo of an attractor that is not the one used in this game.
