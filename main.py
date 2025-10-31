@@ -813,10 +813,10 @@ class Game:
                     5 * 64   # 5 weeks tall
                 ),
                 "text": [
-                    "Track weather patterns with notes!",
                     "",
-                    "Click a day, use RGB sliders to color-code",
-                    "your observations, then save",
+                    "",
+                    "You can save your observations here",
+                    "",
                     "",
                     "Notes are saved to /notes folder"
                 ],
